@@ -1,0 +1,4 @@
+Data used in this analysis are Criteo's day 14 - day 23 data, which is about 420 GB. More information about the data can be found at:
+https://blogs.technet.microsoft.com/machinelearning/2015/04/01/now-available-on-azure-ml-criteos-1tb-click-prediction-dataset/
+
+The unique values for categorical variables and means for integer variables are used in feature engineering step and they are saved in separate datasets. These summaries are based on day 0 - day 23 data which use about 1 TB disk space. The summaries can be downloaded from https://mypublicstorage.blob.core.windows.net/mycontainer/CriteoSummaries.zip
