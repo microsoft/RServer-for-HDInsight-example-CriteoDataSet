@@ -31,3 +31,7 @@ CriteoMainCall.R
 
 ### Run CriteoMainCall.R
 For example, you can run the program from RStudio installed on the HDInsight cluster.
+
+---
+Created by a Microsoft Employee.  
+Copyright (C) Microsoft. All Rights Reserved.
